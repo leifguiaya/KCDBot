@@ -1,4 +1,4 @@
-# KCDBot 🎵
+# KCDBot 🎵 - CURRENTLY BROKEN
 
 A simple Discord music bot that plays music in voice channels.
 
